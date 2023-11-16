@@ -3,7 +3,9 @@
 *Currently a work in progress (as of 11/16/2023)*.
 
 # What is this repository for?
-This repository contains the necessary files to peform transmit gain calibration on the Bruker (Paravision) platform. Specifically, this method can be used for fast and automated TG calibration of nonproton (13C, 129Xe) nuclei on a 7T small animal MRI.
+Transmit gain (TG) calibration is performed prior to MR image acquisition to determine the radiofrequency (RF) output necessary to produce desired excitation angles. 
+
+This repository contains the necessary files to peform transmit gain calibration on the Bruker (Paravision) platform. Specifically, this method can be used for fast and automated TG calibration for 13C and HP 129Xe MRI on a preclinical 7T scanner, where limited bore size and the inability to easily implement a thermal calibration phantom can make 129Xe TG calibration a challenge.
 
 *This method has only been tested using the CentOS 5.11 operating system and Parvision V6.0.1 (PV6.0.1)*
 

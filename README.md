@@ -1,7 +1,7 @@
 # PV-BSXmit
 
 # What is this repository for?
-A method for transmit gain calibration on the Bruker (Paravision) platform.
+A method for (nonproton) transmit gain calibration on the Bruker (Paravision) platform, including hyperpolarized 13C and 129Xe. 
 
 xxx
 

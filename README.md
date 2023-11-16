@@ -20,7 +20,7 @@ Graduate School of Biomedical Sciences\
 Department of Imaging Physics\
 Magnetic Resonance Systems Laboratory
 
-Jim Bankson\
+James A. Bankson\
 JBankson@mdanderson.org\
 Professor\
 The University of Texas MD Anderson Cancer Center\

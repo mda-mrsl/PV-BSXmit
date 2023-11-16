@@ -3,7 +3,7 @@
 # What is this repository for?
 A method for (nonproton) transmit gain calibration on the Bruker (Paravision) platform, including hyperpolarized 13C and 129Xe. 
 
-Please note, this method has currently been tested only on the CentOS xxx operating system.
+Please note, this method has currently been tested only on the CentOS 5.11 operating system and Parvision 6.0.1.
 
 # How do I get set up?
 * Compile *BlochSiegert_TGCalibration* in PV6.0.1

@@ -14,15 +14,15 @@ Please note, this method has only been tested using the CentOS 5.11 operating sy
 # Who do I talk to?
 Collin J. Harlan\
 CJHarlan@mdanderson.org\
-Graduate Research Assistant
+Graduate Research Assistant\
 The University of Texas MD Anderson Cancer Center\
 Graduate School of Biomedical Sciences\
 Department of Imaging Physics\
-Magnetic Resonance Systems Laboratory
+Magnetic Resonance Systems Laboratory\
 
 Jim Bankson\
 JBankson@mdanderson.org\
-Professor
+Professor\
 The University of Texas MD Anderson Cancer Center\
 Department of Imaging Physics\
 Magnetic Resonance Systems Laboratory

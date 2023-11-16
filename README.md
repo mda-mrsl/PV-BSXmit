@@ -14,7 +14,7 @@ Please note, this method has currently been tested only on the CentOS 5.11 opera
 
 # Who do I talk to?
 Collin Harlan\
-cjharlan@mdanderson.org\
+CJHarlan@mdanderson.org\
 The University of Texas MD Anderson Cancer Center\
 Department of Imaging Physics\
 Magnetic Resonance Systems Laboratory

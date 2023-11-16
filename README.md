@@ -1,6 +1,6 @@
 # PV-BSXmit: Bloch-Siegert Transmit Gain Calibration
 
-*Currently a work in progress (as of 11/16/2023)*.
+*README.md is currently a work in progress (as of 11/16/2023)*.
 
 # What is this repository for?
 Transmit gain (TG) calibration is performed prior to MR image acquisition to determine the radiofrequency (RF) output necessary to produce desired excitation angles. 

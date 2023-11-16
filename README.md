@@ -15,6 +15,8 @@ This repository contains the necessary files to peform transmit gain calibration
 * *FERMI_Bloch Siegert.txt* contains an optimized Fermi shaped RF pulse that can be used for off-resonant Bloch-Siegert pulse generation. Copy *FERMI_Bloch Siegert.txt* to **${PVHOME}/prog/curdir/${USER}/ParaVision/exp/lists/wave**.
 
 # Who do I talk to?
+Please feel free to contact us with questions, comments, imporovments, or concerns:
+
 Collin J. Harlan\
 CJHarlan@mdanderson.org\
 Graduate Research Assistant\

@@ -18,7 +18,7 @@ Graduate Research Assistant\
 The University of Texas MD Anderson Cancer Center\
 Graduate School of Biomedical Sciences\
 Department of Imaging Physics\
-Magnetic Resonance Systems Laboratory\
+Magnetic Resonance Systems Laboratory
 
 Jim Bankson\
 JBankson@mdanderson.org\

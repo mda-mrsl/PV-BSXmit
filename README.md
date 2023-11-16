@@ -18,4 +18,4 @@ Collin Harlan\
 cjharlan@mdanderson.org\
 The University of Texas MD Anderson Cancer Center\
 Department of Imaging Physics\
-Magnetic Resonance Systems Laboratory\
+Magnetic Resonance Systems Laboratory

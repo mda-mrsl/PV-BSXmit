@@ -18,3 +18,9 @@ CJHarlan@mdanderson.org\
 The University of Texas MD Anderson Cancer Center\
 Department of Imaging Physics\
 Magnetic Resonance Systems Laboratory
+
+Jim Bankson\
+JBankson@mdanderson.org\
+The University of Texas MD Anderson Cancer Center\
+Department of Imaging Physics\
+Magnetic Resonance Systems Laboratory

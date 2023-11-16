@@ -1,4 +1,4 @@
-# PV-BSXmit: Bloch-Siegert Transmit Gain Calibration
+# PV-BSXmit: Bloch-Siegert Transmit Gain Calibration for Paravision 
 
 *README.md is currently a work in progress (last updated 11/16/2023)*.
 

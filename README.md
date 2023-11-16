@@ -8,7 +8,7 @@ xxx
 Please note, this method has currently been tested only on the CentOS xxx operating system.
 
 # How do I get set up?
-* Copy BlochSiegert_TGCalibration to **${PVHOME}/prog/curdir/${USER}/ParaVision/methods/src**
+* Copy *BlochSiegert_TGCalibration* to **${PVHOME}/prog/curdir/${USER}/ParaVision/methods/src**
 * Compile *BlochSiegert_TGCalibration* method in PV6.0.1
 
 xxx

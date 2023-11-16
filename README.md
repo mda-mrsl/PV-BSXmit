@@ -8,7 +8,7 @@ xxx
 Please note, this method has currently been tested only on the CentOS 5.11 operating system.
 
 # How do I get set up?
-* Copy files to ${PVHOME}/prog/curdir/${USER}/ParaVision/methods/src**
+* Copy files to ${PVHOME}/prog/curdir/${USER}/ParaVision/methods/src **
 
 xxx
 

@@ -31,6 +31,6 @@ Department of Imaging Physics\
 Magnetic Resonance Systems Laboratory
 
 # Acknowledgements 
-This work was supported by funding from the National Cancer Institute of the National 
+This work was supported by funding from the Office of the Director of the National Cancer Institute of the National 
 Institutes of Health (R21CA280799, T32CA196561) and the shared instrumentation grant (S10OD027038). The content is solely the responsibility of the 
 creators and does not necessarily represent the official views of the sponsors.

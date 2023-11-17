@@ -33,4 +33,4 @@ Magnetic Resonance Systems Laboratory
 # Acknowledgements 
 This work was supported by funding from the National Cancer Institute of the National 
 Institutes of Health (R21CA280799, T32CA196561). The content is solely the responsibility of the 
-authors and does not necessarily represent the official views of the sponsors.
+creators and does not necessarily represent the official views of the sponsors.

@@ -11,8 +11,8 @@ This repository contains the necessary files to peform transmit gain calibration
 
 # How do I get set up?
 * Copy *bsSinglePulse_6.0.1.PvUserSrcMethod* using PV6.0.1 to **${PVHOME}/prog/curdir/${USER}/ParaVision/methods/src** and import. *bsSinglePulse* is the name of the Bloch-Siegert transmit gain pulse sequence. 
-* A MATLAB analysis script can be implemented as a standalone executable function (macro) that can be called automatically following data acquisition using *bsSinglePulse*. The *BlochSiegert_TGCalibration* folder contains: *TransmitGain_BlochSiegert.m* and *readBrukerHeader.m*, *recoBrukerKSpace.m*, *readBrukerFid.m*, *rfCalBruker.m*, and *ifftdim.m*. *TransmitGain_BlochSiegert.m* is the main analysis script, with the others being necessary supporting scripts. Compile the files in the *BlochSiegert_TGCalibration* folder using MATLAB (2013b) and copy the compiled executable file to **${PVHOME}/prog/curdir/${USER}/ParaVision/macros**.
-* *FERMI_Bloch Siegert.txt* contains an optimized Fermi shaped RF pulse that can be used for off-resonant Bloch-Siegert pulse generation. Copy *FERMI_Bloch Siegert.txt* to **${PVHOME}/prog/curdir/${USER}/ParaVision/exp/lists/wave**.
+* A MATLAB analysis script can be implemented as a standalone executable function that can be called automatically following data acquisition using *bsSinglePulse*. The *BlochSiegert_TGCalibration* folder contains: *TransmitGain_BlochSiegert.m* and *readBrukerHeader.m*, *recoBrukerKSpace.m*, *readBrukerFid.m*, *rfCalBruker.m*, and *ifftdim.m*. *TransmitGain_BlochSiegert.m* is the main analysis script, with the others being necessary supporting scripts. Compile the files in the *BlochSiegert_TGCalibration* folder using MATLAB (2013b) and copy the compiled executable file to **${PVHOME}/prog/curdir/${USER}/ParaVision/macros**.
+* *FERMI_Bloch Siegert.exc* contains an optimized Fermi shaped RF pulse that can be used for off-resonant Bloch-Siegert pulse generation. Copy *FERMI_Bloch Siegert.exc* to **${PVHOME}/prog/curdir/${USER}/ParaVision/exp/lists/wave**.
 
 # Who do I talk to?
 Please feel free to contact us with questions, comments, imporovments, or concerns:

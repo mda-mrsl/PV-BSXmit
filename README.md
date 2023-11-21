@@ -1,6 +1,6 @@
 # PV-BSXmit: Bloch-Siegert Transmit Gain Calibration for Paravision 
 
-*README.md is currently a work in progress (last updated 11/17/2023)*.
+*last updated 11/21/2023*
 
 # What is this repository for?
 This repository contains the necessary files to peform transmit gain calibration on the Bruker (Paravision) platform. Specifically, this method can be used for fast and automated TG calibration for 13C and HP 129Xe MRI on a preclinical 7T scanner.
